@@ -12,9 +12,3 @@ extends:
     package_version: 1.4.18
     source_repository: public-conan-center
     destination_repository: ccdc-3rdparty-conan
-    platforms:
-      - centos7_gcc9
-      - centos7_gcc10
-      - ubuntu2004_gcc10
-      - macos1015_xcode11
-      - macos1015_xcode12
